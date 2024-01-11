@@ -1,7 +1,8 @@
 ## React JS Project 1 : Cat Rolodex
 
-![JSON Placeholder for fetching names, emails, etc](https://jsonplaceholder.typicode.com/users)
-![Fetch vector images of cats from here](https://robohash.org/${id}?set=set4&size=180x180)
+[JSON Placeholder for fetching names, emails, etc](https://jsonplaceholder.typicode.com/users)
+<br>
+[Fetch vector images of cats from here](https://robohash.org/)
 
 ### Overview
 
